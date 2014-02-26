@@ -1,0 +1,13 @@
+{
+    "name": "Welcome Party",
+    "speakers": [
+        
+    ],
+    "featuring": [
+    	"Gardy Fury"
+    ],
+    "location": "Metropolis",
+    "start": 1392946200000,
+    "end": "",
+    "map": "http://maps.google.com/maps?q=59+rue+Sainte-Catherine+Est"
+}
